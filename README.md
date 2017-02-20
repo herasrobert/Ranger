@@ -1,7 +1,7 @@
-# Wuu-Lu
+# Ranger and The Zombie Horde
 
 
-Wuu-Lu is a small 2d puzzle game where you controll a square.
-I made using C# and the Unity Game Engine (Framework).
+Ranger is a top down zombie survival game where you upgrade your weapons, find survivors, and slaughter and endless horde.
+Made using C# and the Unity Game Engine (Framework) and the first game I officially published under my LLC.
 
-Link to Executable Download: https://herasrobert.itch.io/wuu-lu
+Link to Executable Download: https://playeditstudios.itch.io/rangerzombie
